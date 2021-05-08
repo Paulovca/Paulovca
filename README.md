@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Paulo Aureliano 
 
-- 👨‍💻 I’m currently learning HTML, CSS and JS.
-- 👯 I’m looking to collaborate on WEB projects.
+- 👨‍💻 I’m currently learning JAVA and SQL.
+- 👯 I’m looking to collaborate on JAVA projects.
 - 💬 Ask me about POO.
 - 📫 How to reach me paulo.c.aureliano@gmail.com
 - ⚡ Fun fact: i'm not Asian 😜
